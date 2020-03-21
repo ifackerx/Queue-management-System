@@ -2,6 +2,4 @@
 
 
 ## get Start 
-```
-npm install
-```
+`npm install` 
