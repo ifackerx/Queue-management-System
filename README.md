@@ -2,3 +2,6 @@
 
 
 ## get Start 
+```
+npm install
+```
