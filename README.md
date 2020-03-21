@@ -3,8 +3,9 @@
 
 ## get Start 
 
-``` cd web
-    cd front-end-queue
+```bash
+cd web
+cd front-end-queue
 ```
 
 - `npm install` or `yarn install` ติดตั้ง package ที่จำเป็นในการ run website
