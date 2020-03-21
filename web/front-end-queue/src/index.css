@@ -1,0 +1,75 @@
+@import '~antd/dist/antd.css';
+
+
+
+body {
+  margin: 0;
+  font-family: 'Kanit', sans-serif !important;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F0F2F5;
+  color: black;
+
+  letter-spacing: 1px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+p {
+  border:1px solid black;
+  border-radius: 3px;
+  background-color: coral;
+  padding: 10px;
+}
+
+.row {
+  padding: 5px;
+  margin-bottom: 1.2rem;
+}
+
+#corner {
+  background-color: rgb(41, 41, 41);
+  border-radius: 20px;
+  width: 65%;
+}
+
+.rowHeader {
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  font-weight: bold;
+  background-color: black;
+}
+
+div#rowHover:hover
+{
+   
+    background-color: rgb(109, 109, 109) !important;
+}
+
+.editable-cell {
+  position: relative;
+}
+
+.editable-cell-value-wrap {
+  padding: 5px 12px;
+  cursor: pointer;
+}
+
+.editable-row:hover .editable-cell-value-wrap {
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  padding: 4px 11px;
+}
+
+
+
+.texst {
+  justify-content: flex-end;
+
+border-radius: 50%;
+}
