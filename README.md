@@ -9,4 +9,4 @@ cd front-end-queue
 npm install
 npm start
 ```
-http://localhost:3000/
+เข้าหน้าเว็บได้ที่ - http://localhost:3000/
